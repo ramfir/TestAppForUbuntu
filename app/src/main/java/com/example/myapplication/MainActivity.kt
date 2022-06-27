@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("ura ")
 
         println("another change")
+
+        println("second commit")
     }
 }
